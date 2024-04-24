@@ -4,7 +4,7 @@ The program is designed to ensure that when any of the systems that Pason offere
 
 As with all my Excel based programs, I included custom Ribbon controls for using the macros. And enabling macros is required to use the program since the main functionality is handled by these.
 
-Also included is a user's manual explaining how to use this program. As well as two additional files that are also required. One is a form you send to the customer to find out what they need for their rig. Once completed, this form can be imported into the program. The second file is the same form, but completed with a non-exiting rig's information for testing purposes.
+Also included is a user's manual explaining how to use this program. As well as two additional files that are also required. One is a form you send to the customer to find out what they need for their rig. Once completed, this form can be imported into the program. The second file is the same form, but completed with a non-existing rig's information for testing purposes.
 
 As with all programs I develop I built it to fulfill a specific purpose, but left it able to be expanded and/or used for other things. In this case, it was created primarily for the international division and off-shore oil rigs since sending equipment to these is expensive and not having required items is not an option. However, it can be used by the land based (within the United States) rigs as well.
 
